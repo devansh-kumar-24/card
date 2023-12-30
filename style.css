@@ -225,8 +225,13 @@ padding: 17px;
  
 }
   .mobile{
-margin-top: -11%;
+margin-top: 15%;
   }
+  .logo img{
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+}
      
   } 
 
